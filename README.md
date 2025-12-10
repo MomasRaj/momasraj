@@ -1,3 +1,4 @@
+## Hi 👋  I'm Tomás — a student at Universidad de Chile. I like competitive programming and data science.
 <!--
 **MomasRaj/momasraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
