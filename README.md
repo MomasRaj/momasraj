@@ -1,4 +1,6 @@
-## Hi 👋  I'm Tomás — a student at Universidad de Chile.
+  <center>
+    ## Hi 👋  I'm Tomás — a student at Universidad de Chile.
+  </center>
 <!--
 **MomasRaj/momasraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
